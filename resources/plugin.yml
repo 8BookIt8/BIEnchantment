@@ -1,4 +1,5 @@
 name: BIEnchantment
 author: BookIt
 version: 0.0.1
+api-version: 1.13
 main: com.BookIt.BIEnchantment.BIEnchantment
